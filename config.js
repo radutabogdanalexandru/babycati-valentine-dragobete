@@ -33,12 +33,6 @@ const CONFIG = {
             nextBtn: "Următoarea etapă ❤️"                                         // Text for the next button
         },
         third: {
-            text: "Mă alegi și sărac?",                                    // First interaction
-            yesBtn: "Da 😇",                                             // Text for "Yes" button
-            noBtn: "Nu 🫣",                                               // Text for "No" button
-            secretAnswer: "Te aleg oricum baby! 🤗❤️😍"           // Secret hover message
-        },
-        fourth: {
             text: "Vrei să fii iubita mea de Sfântul Valentin? 🌹", // The big question!
             yesBtn: "Da! 😍",                                             // Text for "Yes" button
             noBtn: "Ba 🤪"                                                 // Text for "No" button
